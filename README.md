@@ -12,6 +12,7 @@
 -  I have a strong foundation in **Data Analysis** and currently build end-to-end **Data Engineering** solutions, from ingestion to visualization
 -  Currently deep-diving into **cloud computing (AWS)**, **big data tools**, and **machine learning pipelines**
 -  Main stack: `Python`, `SQL`, `PySpark`, `PostgreSQL`, `Airflow`, `AWS (S3, Redshift, RDS, Kinesis, Athena, Glue)`
+-  NoSQL Technologies: `MongoDB`, `Redis`
 -  Strong believer in **version control**, clean code and reproducibility
 -  I love building small games, automations, and challenging data pipelines
 
