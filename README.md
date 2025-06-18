@@ -27,8 +27,12 @@ I focus on building **data engineering solutions** that combine cloud services, 
 -  Apply **machine learning models** with distributed processing frameworks like `PySpark` and `MLlib`
 -  Build **analytical data warehouses** and connect them to BI dashboards for ad hoc insights
 -  Explore orchestration tools and cloud services to enhance automation and scalability
--  Simulate IoT sensor data and orchestrate its `ETL` flow using `Apache Airflow` with file monitoring, conditional logic, database storage, and alerting.
--  Simulate and automate a complete `data pipeline` for a vehicle rental company, using `PySpark`, `Airflow`, `Terraform`, `Athena`, `S3`, `MongoDB`, and BI tools(`Amazon QuickSight`) for business insights.
+
+### My Last Projects
+
+-  IoT Sensor Data Simulation & `ETL Flow`: Simulated IoT sensor data and orchestrated its ETL flow using `Apache Airflow` with file monitoring, conditional logic, database storage, and alerting.
+
+-  Vehicle Rental Company Data Pipeline: Simulated and automated a complete data pipeline for a vehicle rental company, using `PySpark`, `Airflow`, `Terraform`, `Athena`, `S3`, `MongoDB`, and BI tools (`Amazon QuickSight`) for business insights.
 
 
 ---
