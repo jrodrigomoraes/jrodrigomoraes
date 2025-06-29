@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hey, I’m José Rodrigo!</h1>
+<h1 align="center">José Rodrigo!</h1>
 
 <p align="center">
-  💻 Data Engineer | Pythonista | AWS Explorer | SQL Enthusiast<br>
-  📊 Passionate about turning data into solutions.
+  Data Engineer | Pythonista | AWS Explorer | SQL Enthusiast<br>
+  Passionate about turning data into solutions.
 </p>
 
 ---
